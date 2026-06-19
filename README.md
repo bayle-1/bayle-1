@@ -60,7 +60,7 @@
 - **特色：** 全我方单位改动、龙类完全重做、新敌人加入、zh-Hans 本地化重置
 - **状态：** 持续迭代中
 
-📥 下载：[KR6 Demo JL]([https://github.com/bayle-1](https://github.com/bayle-1/bayle-1/releases/tag/1)) · [KR5 JL](https://github.com/bayle-1)
+📥 下载：[KR6 Demo JL](https://github.com/bayle-1/bayle-1/releases/tag/1) · [KR5 JL](https://github.com/bayle-1)
 
 ---
 
