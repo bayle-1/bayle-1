@@ -64,7 +64,31 @@
 
 ---
 
-### 🦎 爬行动物隐存多样性研究
+### 🦎 巨蜥科物种检索台 · Varanidae Explorer
+
+> 覆盖巨蜥科全部现生及近缘物种的在线检索工具 —— 特征、分布地、NCBI/BOLD 已测序列一键直达
+
+- **数据：** 87 个分类单元（85 现生 Varanus + Lanthanotus borneensis + †V. priscus），13 个分类组
+- **功能：** 按类群/分布区/保护等级筛选，详情页动态生成 NCBI · BOLD · Reptile Database · IUCN · Scholar 序列与文献链接
+- **体验：** 科莫多巨蜥主题视觉，单文件零依赖
+
+🔗 **在线访问：[varanidae-explorer.app.workbuddy.host](https://varanidae-explorer.app.workbuddy.host/)**
+
+---
+
+### 🐝 蜂群议事厅 · Bee Hive Council
+
+> 单文件、零依赖的多智能体商议工作台 —— 成员可见范围由程序强制控制，而非提示词自觉
+
+- **协议：** 独立出解 → 交叉互评 → 逐条回应 → 裁决收敛，星型拓扑 + 结构化回合
+- **特性：** 演示/真实 API 双模式、38 项端到端验证全通过、Windows 桌面集成
+- **场景：** 内置蜜蜂体表微生物分析三套预置议题，领域无关可任意替换
+
+🔗 仓库：[bayle-1/bee-hive-council](https://github.com/bayle-1/bee-hive-council)
+
+---
+
+### 🧬 爬行动物隐存多样性研究
 
 > 基于 K2P 遗传距离的分子分类与隐存多样性分析
 
